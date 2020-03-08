@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/xnqzvGxQ"]
+[Date "2020.03.08"]
+[Round "-"]
+[White "ricardomlp"]
+[Black "Antonio262007"]
+[Result "1-0"]
+[UTCDate "2020.03.08"]
+[UTCTime "00:48:17"]
+[WhiteElo "1539"]
+[BlackElo "1548"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } e5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:09:59] } Nf6 { [%clk 0:09:57] } { C24 Bishop's Opening: Berlin Defense } 3. d3 { [%clk 0:09:57] } Bc5 { [%clk 0:09:56] } 4. f4 { [%clk 0:09:56] } d6 { [%clk 0:09:50] } 5. Nf3 { [%clk 0:09:54] } Bg4 { [%clk 0:09:45] } 6. h3 { [%clk 0:09:49] } Bh5 { [%clk 0:09:43] } 7. g4 { [%clk 0:09:44] } Bg6 { [%clk 0:09:42] } 8. fxe5 { [%clk 0:09:39] } dxe5 { [%clk 0:09:40] } 9. Nxe5 { [%clk 0:09:34] } Nbd7 { [%clk 0:09:18] } 10. Nxg6 { [%clk 0:09:29] } fxg6 { [%clk 0:09:16] } 11. Bg5 { [%clk 0:09:25] } Ne5 { [%clk 0:09:03] } 12. Nc3 { [%clk 0:09:15] } Nxc4 { [%clk 0:08:58] } 13. dxc4 { [%clk 0:09:12] } Qxd1+ { [%clk 0:08:51] } 14. Rxd1 { [%clk 0:09:08] } O-O { [%clk 0:08:39] } 15. Nd5 { [%clk 0:08:43] } Rad8 { [%clk 0:08:03] } 16. Nxf6+ { [%clk 0:08:33] } gxf6 { [%clk 0:08:02] } 17. Rxd8 { [%clk 0:08:27] } Rxd8 { [%clk 0:07:56] } 18. Bxf6 { [%clk 0:08:26] } Rd6 { [%clk 0:07:43] } 19. e5 { [%clk 0:08:23] } Re6 { [%clk 0:07:35] } 20. c3 { [%clk 0:08:03] } h6 { [%clk 0:07:21] } 21. Ke2 { [%clk 0:07:56] } Kf7 { [%clk 0:07:19] } 22. Kf3 { [%clk 0:07:42] } Be7 { [%clk 0:07:17] } 23. Kg3 { [%clk 0:07:17] } Bxf6 { [%clk 0:07:14] } 24. exf6 { [%clk 0:07:14] } Rxf6 { [%clk 0:07:10] } 25. Rd1 { [%clk 0:07:12] } Ke7 { [%clk 0:07:05] } 26. Rd5 { [%clk 0:07:06] } Ra6 { [%clk 0:06:39] } 27. a3 { [%clk 0:06:54] } Rb6 { [%clk 0:06:38] } 28. Rb5 { [%clk 0:06:51] } Rxb5 { [%clk 0:06:24] } 29. cxb5 { [%clk 0:06:49] } Kd6 { [%clk 0:06:24] } 30. Kf4 { [%clk 0:06:47] } Kc5 { [%clk 0:06:22] } 31. a4 { [%clk 0:06:37] } Kc4 { [%clk 0:06:19] } 32. Ke5 { [%clk 0:06:35] } Kb3 { [%clk 0:06:18] } 33. Kf6 { [%clk 0:06:17] } Kxb2 { [%clk 0:06:16] } 34. Kxg6 { [%clk 0:06:16] } Kxc3 { [%clk 0:06:15] } 35. Kxh6 { [%clk 0:06:15] } Kb4 { [%clk 0:06:15] } 36. g5 { [%clk 0:06:13] } Kxa4 { [%clk 0:06:14] } 37. g6 { [%clk 0:06:12] } Kxb5 { [%clk 0:06:14] } 38. g7 { [%clk 0:06:11] } a5 { [%clk 0:06:14] } 39. g8=Q { [%clk 0:06:08] } a4 { [%clk 0:06:14] } 40. Qg4 { [%clk 0:06:01] } a3 { [%clk 0:06:10] } 41. Qd4 { [%clk 0:05:51] } c5 { [%clk 0:05:56] } 42. Qc3 { [%clk 0:05:44] } Ka4 { [%clk 0:05:46] } 43. Qc4+ { [%clk 0:05:40] } Ka5 { [%clk 0:05:44] } 44. Qxc5+ { [%clk 0:05:38] } b5 { [%clk 0:05:42] } 45. Qxa3+ { [%clk 0:05:35] } Kb6 { [%clk 0:05:41] } 46. Qb4 { [%clk 0:05:32] } Ka6 { [%clk 0:05:40] } 47. Kg6 { [%clk 0:05:28] } Kb6 { [%clk 0:05:38] } 48. Kf6 { [%clk 0:05:26] } Ka6 { [%clk 0:05:38] } 49. Ke6 { [%clk 0:05:25] } Kb6 { [%clk 0:05:38] } 50. Kd6 { [%clk 0:05:24] } Ka6 { [%clk 0:05:36] } 51. Kc7 { [%clk 0:05:14] } Ka7 { [%clk 0:05:35] } 52. Qa5# { [%clk 0:05:13] } { White wins by checkmate. } 1-0
+
+
