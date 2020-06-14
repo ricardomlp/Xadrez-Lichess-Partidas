@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/2aFsZGmH"]
+[Date "2020.06.13"]
+[Round "-"]
+[White "ricardomlp"]
+[Black "AbdoBM"]
+[Result "1-0"]
+[UTCDate "2020.06.13"]
+[UTCTime "23:39:13"]
+[WhiteElo "1584"]
+[BlackElo "1557"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C20"]
+[Opening "Bishop's Opening: Boi Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } e5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:10:02] } Bc5 { [%clk 0:10:01] } { C20 Bishop's Opening: Boi Variation } 3. Nf3 { [%clk 0:10:01] } d6 { [%clk 0:10:04] } 4. O-O { [%clk 0:10:03] } h6 { [%clk 0:09:57] } 5. Nc3 { [%clk 0:10:06] } c6 { [%clk 0:10:01] } 6. d3 { [%clk 0:10:07] } g5 { [%clk 0:10:02] } 7. Nd2 { [%clk 0:09:48] } b5 { [%clk 0:09:53] } 8. Bb3 { [%clk 0:09:49] } a5 { [%clk 0:09:53] } 9. a4 { [%clk 0:09:52] } b4 { [%clk 0:09:56] } 10. Na2 { [%clk 0:09:46] } Nd7 { [%clk 0:09:22] } 11. Qf3 { [%clk 0:09:46] } Ndf6 { [%clk 0:09:20] } 12. h3 { [%clk 0:09:39] } g4 { [%clk 0:09:11] } 13. hxg4 { [%clk 0:09:27] } Bxg4 { [%clk 0:09:11] } 14. Qg3 { [%clk 0:09:26] } h5 { [%clk 0:09:02] } 15. Nf3 { [%clk 0:09:04] } Qe7 { [%clk 0:08:42] } 16. Bg5 { [%clk 0:08:54] } O-O-O { [%clk 0:08:42] } 17. Nh4 { [%clk 0:08:35] } Bd4 { [%clk 0:08:08] } 18. c3 { [%clk 0:08:21] } bxc3 { [%clk 0:08:02] } 19. bxc3 { [%clk 0:08:23] } Bc5 { [%clk 0:07:59] } 20. Nf5 { [%clk 0:07:58] } Qb7 { [%clk 0:07:43] } 21. Bxf6 { [%clk 0:07:24] } Nxf6 { [%clk 0:07:40] } 22. Rab1 { [%clk 0:07:04] } Qd7 { [%clk 0:06:45] } 23. d4 { [%clk 0:06:33] } Nxe4 { [%clk 0:06:18] } 24. Qe3 { [%clk 0:06:27] } Qxf5 { [%clk 0:05:51] } 25. dxc5 { [%clk 0:06:23] } Nxc5 { [%clk 0:05:38] } 26. f3 { [%clk 0:05:59] } Nxb3 { [%clk 0:04:50] } 27. Rxb3 { [%clk 0:05:49] } Qc2 { [%clk 0:04:46] } 28. Qb6 { [%clk 0:05:05] } Kd7 { [%clk 0:03:44] } 29. fxg4 { [%clk 0:04:11] } Qxa2 { [%clk 0:03:41] } 30. Qb7+ { [%clk 0:03:53] } { Black resigns. } 1-0
+
+
