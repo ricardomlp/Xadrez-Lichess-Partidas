@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/ZyIgZTTc"]
+[Date "2020.07.01"]
+[Round "-"]
+[White "ricardomlp"]
+[Black "Abhishek1234567890"]
+[Result "1-0"]
+[UTCDate "2020.07.01"]
+[UTCTime "03:08:32"]
+[WhiteElo "1630"]
+[BlackElo "1673"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-133"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C23"]
+[Opening "Bishop's Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } e5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:10:04] } { C23 Bishop's Opening } Nc6 { [%clk 0:10:03] } 3. d3 { [%clk 0:10:07] } h6 { [%clk 0:10:01] } 4. f4 { [%clk 0:10:11] } exf4 { [%clk 0:10:00] } 5. Bxf4 { [%clk 0:10:12] } Nd4 { [%clk 0:10:02] } 6. c3 { [%clk 0:10:12] } Nc6 { [%clk 0:10:02] } 7. Nf3 { [%clk 0:10:13] } d6 { [%clk 0:10:04] } 8. O-O { [%clk 0:10:15] } Qe7 { [%clk 0:10:00] } 9. Na3 { [%clk 0:10:09] } Bg4 { [%clk 0:10:03] } 10. Bg3 { [%clk 0:10:00] } O-O-O { [%clk 0:09:56] } 11. Qb3 { [%clk 0:09:47] } f6 { [%clk 0:09:48] } 12. Bd5 { [%clk 0:09:34] } Qe8 { [%clk 0:09:26] } 13. Nb5 { [%clk 0:09:30] } Kb8 { [%clk 0:09:28] } 14. Nfd4 { [%clk 0:09:14] } Nxd4 { [%clk 0:09:27] } 15. Nxd4 { [%clk 0:09:09] } b6 { [%clk 0:09:27] } 16. Nc6+ { [%clk 0:09:05] } Kc8 { [%clk 0:09:31] } 17. Nxa7+ { [%clk 0:09:05] } Kb8 { [%clk 0:09:34] } 18. Nc6+ { [%clk 0:09:07] } Kc8 { [%clk 0:09:38] } 19. Nxd8 { [%clk 0:08:58] } Qxd8 { [%clk 0:09:40] } 20. Qa4 { [%clk 0:08:38] } Ne7 { [%clk 0:09:12] } 21. Qa8+ { [%clk 0:07:35] } Kd7 { [%clk 0:09:14] } 22. Qxd8+ { [%clk 0:07:38] } Kxd8 { [%clk 0:09:16] } 23. a4 { [%clk 0:07:29] } h5 { [%clk 0:09:18] } 24. a5 { [%clk 0:07:30] } bxa5 { [%clk 0:09:18] } 25. Rxa5 { [%clk 0:07:32] } Be2 { [%clk 0:09:21] } 26. Be6 { [%clk 0:07:19] } c5 { [%clk 0:09:10] } 27. Bxd6 { [%clk 0:06:54] } Bxf1 { [%clk 0:09:06] } 28. Ra8+ { [%clk 0:06:49] } Nc8 { [%clk 0:09:04] } 29. Rxc8# { [%clk 0:06:45] } { White wins by checkmate. } 1-0
+
+
