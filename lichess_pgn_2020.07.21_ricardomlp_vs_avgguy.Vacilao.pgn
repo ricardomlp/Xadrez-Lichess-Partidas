@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/RgQzQXZ2"]
+[Date "2020.07.21"]
+[White "ricardomlp"]
+[Black "avgguy"]
+[Result "1-0"]
+[UTCDate "2020.07.21"]
+[UTCTime "03:46:59"]
+[WhiteElo "1610"]
+[BlackElo "1583"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C33"]
+[Opening "King's Gambit Accepted, Bishop's Gambit, Maurian Defense"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 { [%clk 0:10:00] } e5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:10:04] } Nc6 { [%clk 0:10:01] } 3. f4 { [%clk 0:10:06] } exf4 { [%clk 0:10:03] } { C33 King's Gambit Accepted, Bishop's Gambit, Maurian Defense } 4. d3 { [%clk 0:10:09] } Ne5 { [%clk 0:10:00] } 5. Bxf4 { [%clk 0:09:43] } Nxc4 { [%clk 0:10:02] } 6. dxc4 { [%clk 0:09:47] } Nf6 { [%clk 0:10:03] } 7. Nc3 { [%clk 0:09:41] } d6 { [%clk 0:10:01] } 8. Bg5 { [%clk 0:09:44] } Be6 { [%clk 0:10:01] } 9. Nd5 { [%clk 0:09:36] } Be7 { [%clk 0:09:59] } 10. Nf3 { [%clk 0:09:34] } Nxd5 { [%clk 0:09:57] } 11. cxd5 { [%clk 0:09:34] } Bxd5 { [%clk 0:09:53] } 12. Bxe7 { [%clk 0:09:34] } Qxe7 { [%clk 0:09:55] } 13. O-O { [%clk 0:09:37] } Bc4 { [%clk 0:09:46] } 14. Re1 { [%clk 0:09:35] } O-O-O { [%clk 0:09:47] } 15. Qd4 { [%clk 0:09:26] } Ba6 { [%clk 0:09:26] } 16. Qxa7 { [%clk 0:09:10] } g5 { [%clk 0:09:04] } 17. e5 { [%clk 0:09:11] } Qd7 { [%clk 0:08:19] } 18. Qa8# { [%clk 0:09:05] } { White wins by checkmate. } 1-0
+
+
